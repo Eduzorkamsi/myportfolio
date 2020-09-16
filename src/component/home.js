@@ -7,7 +7,7 @@ function Home() {
         return(
             <div className = "homepage">
                 <h1>Kamsi Eduzor</h1>
-                <h3> I am a front-end developer </h3>
+                <h3> I am a Front-End Developer. </h3>
                 <h4>I am a technology enthusiast and a computer science undergraduate, <br></br>
                     proficient in Javacript, Python, SQL, HTML and CSS with experience in web development, <br></br>
                     Business Intelligence and Outreach Services. <br></br>

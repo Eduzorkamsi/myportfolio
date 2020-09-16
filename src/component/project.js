@@ -19,33 +19,33 @@ function Projects() {
                 <div class="middle">
                     <div class="text">
                         <h3>Hotspots</h3>
-                        <h4>A mobile platform for finding locations.
+                        <h4>A mobile platform for finding locations.</h4>
 
-                        I built the front-end using React,
+                        <h4>I built the front-end using React,
 Javascript, HTML & CSS</h4>
-                       <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3> 
+                        <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3>
                     </div>
                 </div>
                 <img className="card-img" src={image2} alt="" />
                 <div class="middle">
                     <div class="text">
-                    <h3>Hotspots</h3>
-                        <h4>A mobile platform for finding locations.
+                        <h3>Hotspots</h3>
+                        <h4>A mobile platform for finding locations.</h4>
 
-                        I built the front-end using React,
+                        <h4>I built the front-end using React,
 Javascript, HTML & CSS</h4>
-                       <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3> 
+                        <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3>
                     </div>
                 </div>
                 <img className="card-img" src={image3} alt="" />
                 <div class="middle">
                     <div class="text">
-                    <h3>Hotspots</h3>
-                        <h4>A mobile platform for finding locations.
+                        <h3>Hotspots</h3>
+                        <h4>A mobile platform for finding locations.</h4>
 
-                        I built the front-end using React,
+                        <h4>I built the front-end using React,
 Javascript, HTML & CSS</h4>
-                       <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3> 
+                        <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3>
 
                     </div>
                 </div>

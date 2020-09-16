@@ -30,7 +30,7 @@ function Contacts() {
 
             <Button></Button>
             <div className="footer">
-                <div className="home_icons">
+                <div className="contact_icons">
                     <a href="https://github.com/eduzorkamsi"><VscGithubAlt className="github"></VscGithubAlt></a>
                     <a href="https://twitter.com/@kamsizoe"><i class="fab fa-twitter fa-lg"></i></a>
                     <a href="https://www.linkedin.com/in/kamsi-eduzor-a76a2b143//"><i class="fab fa-linkedin-in fa-lg"></i></a>
