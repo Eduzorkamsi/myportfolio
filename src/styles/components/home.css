@@ -1,0 +1,30 @@
+.homepage>h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 81px;
+    line-height: 111px;
+    margin-top: 181px;
+    margin-bottom: 20px;
+    color: #020887;
+}
+
+.homepage>h3 {
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 16px;
+    color: #63768D;
+    line-height: 26px;
+}
+
+.homepage>h4 {
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    color: #63768D;
+    line-height: 26px;
+}

@@ -1,0 +1,25 @@
+.button_outline{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.button-wrapper {
+    padding: 15px 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #020887;
+    cursor: pointer;
+    width: 140px;
+  }
+
+.button {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}

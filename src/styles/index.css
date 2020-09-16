@@ -1,0 +1,24 @@
+html {
+    font-size: 90.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Avenir Next', sans-serif;;
+    background-color: #ffffff;
+  
+}
+
+    
+     
+@import 'components/home.css';
+@import 'components/skills.css';
+@import 'components/project.css';
+@import 'components/contact.css';
+@import 'components/navbar.css';
+@import 'components/button.css';
+@import 'components/icons.css';
