@@ -3,6 +3,7 @@
  nav {
     display: flex;
     justify-content: center;
+    align-items: center;
     top: 50px;
     position: fixed;
     background: #F2CFDF;
@@ -28,13 +29,14 @@
   }
   ul.header li {
     display: inline;
-    margin: 0px;
+
   }
  
   nav ul li a {
     line-height: 60px;
     color: #63768D;
     padding: 12px 30px;
+   
     text-decoration: none;
     transition: .3s;
   }
@@ -47,4 +49,6 @@
   .active {
     background-color: #FB3640;
     color: #fff;
+    padding-top: 13px;
+    padding-bottom: 15px;
   }

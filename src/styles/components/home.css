@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     font-weight: bold;
+    font-style: normal;
     font-size: 81px;
     line-height: 111px;
     margin-top: 181px;
@@ -23,8 +24,123 @@
     margin-top: 20px;
     display: flex;
     text-align: center;
-    font-weight: 600;
     font-size: 16px;
     color: #63768D;
     line-height: 26px;
+}
+
+/* media queries */
+
+@media (max-width: 768px) and (min-width:541px) {
+    .homepage>h1 {
+        font-size: 61px;
+    }
+    .image_card {
+        flex-direction: column!important;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-img {
+        margin-bottom: 30px!important;
+    }
+    img {
+        width: 200px!important;
+        height: 290px!important;
+    }
+}
+
+@media (max-width: 540px) and (min-width:361px) {
+    .homepage>h1 {
+        margin-top: 100px!important;
+        font-size: 51px;
+    }
+    .homepage>h3 {
+        font-size: 12px;
+    }
+    .homepage>h4 {
+        font-size: 12px;
+    }
+    .image_card {
+        flex-direction: column!important;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-img {
+        margin-bottom: 30px!important;
+    }
+    img {
+        width: 200px!important;
+        height: 290px!important;
+    }
+    .home_icons {
+        margin-top: 80px!important;
+    }
+    .card {
+        width: 250px!important;
+    }
+    .card-body {
+        width: 250px!important;
+    }
+    .col-sm-6 {
+        margin-left: 30px!important;
+    }
+}
+
+@media (max-width: 360px) and (min-width:260px) {
+    nav ul {
+        list-style: none;
+        float: none!important;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center!important;
+        align-items: center!important;
+        width: 80px;
+    }
+    nav ul li {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width:80px!important;
+      }
+
+      nav ul li a{
+        padding: 14px 20px!important;
+      }
+
+    .homepage>h1 {
+        margin-top: 100px!important;
+        font-size: 51px;
+    }
+    .homepage>h3 {
+        font-size: 12px;
+    }
+    .homepage>h4 {
+        font-size: 12px;
+    }
+    .image_card {
+        flex-direction: column!important;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-img {
+        margin-bottom: 30px!important;
+    }
+    img {
+        width: 200px!important;
+        height: 290px!important;
+    }
+    .home_icons {
+        margin-top: 80px!important;
+    }
+    .card {
+        width: 250px!important;
+    }
+    .card-body {
+        width: 250px!important;
+    }
+    .col-sm-6 {
+        margin-left: 30px!important;
+    }
 }

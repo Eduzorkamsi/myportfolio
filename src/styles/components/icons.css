@@ -2,8 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 167px;
-    margin-left: 60px;
+    margin-top: 159px;
+    margin-left: 0px;
     
 }
 
@@ -11,8 +11,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 84px;
-  margin-left: 60px;
+  margin-top: 80px;
+  margin-left: 0px;
   
 }
 
@@ -21,13 +21,22 @@
   justify-content: center;
   align-items: center;
   margin-top: 81px;
-  margin-left: 60px;
+  margin-left: 0px;
+  
+}
+
+.contact_icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 87px;
+  margin-left: 0px;
   
 }
 
 i{
 
-padding-right: 39.5px;
+padding-left: 39.5px;
 }
 
 .fa.fa-envelope {
@@ -40,8 +49,8 @@ padding-right: 39.5px;
     color: #63768D;
     font-size: 24px;
     
-    margin-left: -3px;
-    padding-right: 39.5px;
+    margin-left: -10px;
+
 
   }
   
