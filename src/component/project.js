@@ -14,42 +14,51 @@ function Projects() {
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas cras <br></br>lectus magna sodales aenean condimentum auctor aliquet. </h4>
 
             </div>
-            <div className="image_card">
-                <img className="card-img" src={image1} alt="" />
-                <div class="middle">
-                    <div class="text">
-                        <h3>Hotspots</h3>
-                        <h4>A mobile platform for finding locations.</h4>
+            <div className="project_contain_2">
+                <div class="card-container">
+                    <img src={image1}></img>
+                    <div class="hoverText">
+                        <div class="caption">
+                        <h3>RippleTv</h3>
+                        <h6>a streaming platform</h6>
 
-                        <h4>I built the front-end using React,
-Javascript, HTML & CSS</h4>
-                        <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3>
+                        <h6>I built the front-end using React,
+Javascript, HTML & CSS</h6>
+                        <h3><a className="link1" href="https://rippletv.netlify.app/">Check it out </a></h3>
+                        </div>
                     </div>
                 </div>
-                <img className="card-img" src={image2} alt="" />
-                <div class="middle">
-                    <div class="text">
-                        <h3>Hotspots</h3>
-                        <h4>A mobile platform for finding locations.</h4>
 
-                        <h4>I built the front-end using React,
-Javascript, HTML & CSS</h4>
-                        <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3>
+                <div class="card-container">
+                    <img src={image2}></img>
+                    <div class="hoverText">
+                        <div class="caption">
+                        <h3>Portfolio</h3>
+                        <h6>a portfolio</h6>
+
+                        <h6>I built the front-end using React,
+Javascript, HTML & CSS</h6>
+                        <h3><a className="link2" href="https://hfsportfolio.netlify.app/">Check it out </a></h3>
+                        </div>
                     </div>
                 </div>
-                <img className="card-img" src={image3} alt="" />
-                <div class="middle">
-                    <div class="text">
-                        <h3>Hotspots</h3>
-                        <h4>A mobile platform for finding locations.</h4>
 
-                        <h4>I built the front-end using React,
-Javascript, HTML & CSS</h4>
-                        <h3><a href="https://rippletv.netlify.app/">Check it out </a></h3>
+                <div class="card-container">
+                    <img src={image3}></img>
+                    <div class="hoverText">
+                        <div class="caption">
+                        <h3>Spinero(in development)</h3>
+                        <h6>e-commerce</h6>
 
+                        <h6>I built the front-end using React,
+Javascript, HTML & CSS</h6>
+                        <h3><a className="link3" href="">Check it out </a></h3>
+
+                        </div>
                     </div>
                 </div>
             </div>
+
             <div className="footer">
                 <div className="project_icons">
                     <a href="https://github.com/eduzorkamsi"><VscGithubAlt className="github"></VscGithubAlt></a>
@@ -59,7 +68,11 @@ Javascript, HTML & CSS</h4>
                 </div>
 
             </div>
+     
+           
         </div>
+
+
     );
 
 }
