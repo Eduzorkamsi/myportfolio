@@ -16,7 +16,7 @@ function Skills() {
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">HTML</h5>
+                                <h5 class="card-title">HTML/CSS</h5>
                                 <p class="card-text">It is a long established fact that a reader will be distracted </p>
 
                             </div>
@@ -25,7 +25,7 @@ function Skills() {
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">CSS</h5>
+                                <h5 class="card-title">JavaScript</h5>
                                 <p class="card-text">It is a long established fact that a reader will be distracted </p>
 
                             </div>
@@ -36,7 +36,7 @@ function Skills() {
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">JavaScript</h5>
+                                <h5 class="card-title">React</h5>
                                 <p class="card-text">It is a long established fact that a reader will be distracted </p>
 
                             </div>

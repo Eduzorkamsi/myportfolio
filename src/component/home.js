@@ -9,7 +9,7 @@ function Home() {
                 <h1>Kamsi Eduzor</h1>
                 <h3> I am a Front-End Developer. </h3>
                 <h4>I am a technology enthusiast and a computer science undergraduate, <br></br>
-                    proficient in Javacript, Python, SQL, HTML and CSS with experience in web development, <br></br>
+                    proficient in Javascript,React, Python, SQL, HTML and CSS with experience in web development, <br></br>
                     Business Intelligence and Outreach Services. <br></br>
                     I am an efficient and analytical web developer with good multi-tasking and problem solving skills.
                 </h4>
