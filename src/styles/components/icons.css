@@ -1,0 +1,67 @@
+.home_icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 159px;
+    margin-left: 0px;
+    
+}
+
+.skill_icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  margin-left: 0px;
+  
+}
+
+.project_icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 81px;
+  margin-left: 0px;
+  
+}
+
+.contact_icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 87px;
+  margin-left: 0px;
+  
+}
+
+i{
+
+padding-left: 39.5px;
+}
+
+.fa.fa-envelope {
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #63768D;
+  }
+  
+  .github {
+    color: #63768D;
+    font-size: 24px;
+    
+    margin-left: -10px;
+
+
+  }
+  
+  .fab.fa-twitter.fa-lg {
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #63768D;
+  }
+  
+  .fab.fa-linkedin-in.fa-lg {
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:  #63768D;
+  }
