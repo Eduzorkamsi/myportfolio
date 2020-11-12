@@ -41,9 +41,24 @@ p.card-text {
 
 .card-body {
     background: #f7f7f8;
-    width: 345px;
+    width: 100%;
 }
 
 .col-sm-6 {
     margin-top: 20px;
+}
+
+@media (max-width: 426px){
+    .card-body{
+        background: none;
+      
+    }
+
+    .card{
+        border: none;
+    }
+
+    .col-sm-6{
+        width: 35%;
+    }
 }

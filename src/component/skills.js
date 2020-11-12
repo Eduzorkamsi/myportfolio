@@ -8,7 +8,7 @@ function Skills() {
         <div className="Skills">
             <div className="Skills_header">
                 <h3>Technical Skills</h3>
-                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas cras <br></br>lectus magna sodales aenean condimentum auctor aliquet. </h4>
+                 <h4>Overtime i've acquired a number of skills some not particular to my major field but because i love the tech industry wholly.</h4> 
 
             </div>
             <div className="Skills_content">
@@ -17,7 +17,7 @@ function Skills() {
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">HTML/CSS</h5>
-                                <p class="card-text">It is a long established fact that a reader will be distracted </p>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
                         </div>
@@ -26,7 +26,7 @@ function Skills() {
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">JavaScript</h5>
-                                <p class="card-text">It is a long established fact that a reader will be distracted </p>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
                         </div>
@@ -37,7 +37,7 @@ function Skills() {
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">React</h5>
-                                <p class="card-text">It is a long established fact that a reader will be distracted </p>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
                         </div>
@@ -46,7 +46,7 @@ function Skills() {
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">MySQL</h5>
-                                <p class="card-text">It is a long established fact that a reader will be distracted </p>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
                         </div>
@@ -57,7 +57,7 @@ function Skills() {
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">CyberSkills</h5>
-                                <p class="card-text">It is a long established fact that a reader will be distracted </p>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
                         </div>
@@ -66,7 +66,7 @@ function Skills() {
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">Business Intelligence</h5>
-                                <p class="card-text">It is a long established fact that a reader will be distracted </p>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
                         </div>

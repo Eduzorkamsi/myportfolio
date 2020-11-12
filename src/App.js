@@ -8,7 +8,7 @@ import {
 import Home from "./component/home";
 import Skills from "./component/skills";
 import Projects from "./component/project";
-import Contacts from "./component/contact";
+// import Contacts from "./component/contact";
 
 class App extends Component {
   render() {
@@ -20,7 +20,7 @@ class App extends Component {
               <li><NavLink exact to="/">Home</NavLink></li>
               <li><NavLink to="/Skills">Skills</NavLink></li>
               <li><NavLink to="/Projects">Projects</NavLink></li>
-              <li><NavLink to="/Contacts">Contacts</NavLink></li>
+              {/* <li><NavLink to="/Contacts">Contacts</NavLink></li> */}
 
             </ul>
           </nav>
@@ -28,7 +28,7 @@ class App extends Component {
           <Route exact path="/" component={Home}/>
             <Route path="/Skills" component={Skills}/>
             <Route path="/Projects" component={Projects}/>
-            <Route path="/Contacts" component={Contacts}/>
+            {/* <Route path="/Contacts" component={Contacts}/> */}
           </div>
         </div>
       </HashRouter>

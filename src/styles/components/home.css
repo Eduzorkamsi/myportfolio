@@ -144,3 +144,9 @@
         margin-left: 30px!important;
     }
 }
+
+@media (max-width:426px){
+    .homepage>h1{
+        font-size: 50px;
+    }
+}
