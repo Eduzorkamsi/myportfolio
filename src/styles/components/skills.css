@@ -1,0 +1,64 @@
+.Skills {
+    margin-top: 180px;
+}
+
+.Skills_header>h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #020887;
+}
+
+.Skills_header>h4 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    color: #63768D;
+    line-height: 26px;
+}
+
+h5.card-title {
+    color: #020887;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+p.card-text {
+    color: #141204;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.card-body {
+    background: #f7f7f8;
+    width: 100%;
+}
+
+.col-sm-6 {
+    margin-top: 20px;
+}
+
+@media (max-width: 426px){
+    .card-body{
+        background: none;
+      
+    }
+
+    .card{
+        border: none;
+    }
+
+    .col-sm-6{
+        width: 35%;
+    }
+}
