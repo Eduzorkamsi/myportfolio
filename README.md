@@ -1,6 +1,6 @@
 My portfolio site
 
-This project is live at : kamsisportfolio.netlify.app
+This project is live at : https://kamsisportfolio.netlify.app
 
 his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
