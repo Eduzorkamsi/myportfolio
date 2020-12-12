@@ -38,7 +38,7 @@ Javascript, HTML & CSS</h6>
 
                         <h6>I built the front-end using React,
 Javascript, HTML & CSS</h6>
-                        <h3><a className="link2" href="https://spineroshop.com/">Check it out </a></h3>
+                        <h3><a className="link2" href="https://spinero.netlify.app/">Check it out </a></h3>
                         </div>
                     </div>
                 </div>
