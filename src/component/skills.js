@@ -16,7 +16,7 @@ function Skills() {
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">HTML/CSS</h5>
+                                <h5 class="card-title">HTML</h5>
                                 {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
@@ -25,7 +25,7 @@ function Skills() {
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">JavaScript</h5>
+                                <h5 class="card-title">CSS</h5>
                                 {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
@@ -33,6 +33,15 @@ function Skills() {
                     </div>
                 </div>
                 <div class="row">
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Java Script</h5>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
+
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
@@ -42,10 +51,21 @@ function Skills() {
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="row">
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">MySQL</h5>
+                                <h5 class="card-title">Node JS</h5>
+                                {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">JSON</h5>
                                 {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
@@ -56,7 +76,7 @@ function Skills() {
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">CyberSkills</h5>
+                                <h5 class="card-title">Express</h5>
                                 {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
@@ -65,7 +85,7 @@ function Skills() {
                     <div class="col-sm-6">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Business Intelligence</h5>
+                                <h5 class="card-title">React Native</h5>
                                 {/* <p class="card-text">It is a long established fact that a reader will be distracted </p> */}
 
                             </div>
