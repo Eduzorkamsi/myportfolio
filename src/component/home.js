@@ -6,13 +6,15 @@ function Home() {
   return (
     <div className="homepage">
       <h1>Kamsi Eduzor</h1>
-      <h3> I am a Full-Stack Developer. </h3>
+      <h3> I am a Front-End Developer. </h3>
       <h4>
-        I am a technology enthusiast and a computer science undergraduate, <br/>
-        proficient in Javascript, React, SQL, HTML, CSS and so on <br/> with
-        experience in web development, Business Intelligence and Outreach
-        Services.<br/> I am an efficient and analytical web developer with good<br/>
-        multi-tasking and problem solving skills.
+        Reliable , motivated and organized with experience in web development.{" "}
+        <br />
+        Equipped with modern technologies and able to identify problems and
+        deliver solutions
+        <br />
+        Proficient in web development, implementing features based on user
+        feedback.
       </h4>
 
       <Button></Button>
