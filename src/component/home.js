@@ -6,15 +6,15 @@ function Home() {
   return (
     <div className="homepage">
       <h1>Kamsi Eduzor</h1>
-      <h3> I am a Front-End Developer. </h3>
+      <h3>An Avid frontend developer </h3>
       <h4>
-        Reliable , motivated and organized with experience in web development.{" "}
-        <br />
+        Passionate about solving pertinent problems using technology. <br />
         Equipped with modern technologies and able to identify problems and
         deliver solutions
         <br />
-        Proficient in web development, implementing features based on user
-        feedback.
+        Experienced with software development best practices.
+        <br /> I convert user stories into well-written, adequately tested, and
+        efficient lines of code to build products with good user experience.
       </h4>
 
       <Button></Button>
@@ -23,10 +23,10 @@ function Home() {
           <a href="https://github.com/eduzorkamsi">
             <VscGithubAlt className="github"></VscGithubAlt>
           </a>
-          <a href="https://twitter.com/@kamsizoe">
+          <a href="https://twitter.com/@EduzorKamsi">
             <i class="fab fa-twitter fa-lg"></i>
           </a>
-          <a href="https://www.linkedin.com/in/kamsi-eduzor-a76a2b143//">
+          <a href="https://www.linkedin.com/in/kamsi-eduzor">
             <i class="fab fa-linkedin-in fa-lg"></i>
           </a>
           <a href="mailto:eduzorkamsi@gmail.com">
